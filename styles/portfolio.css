@@ -18,6 +18,11 @@ nav{
     margin: 0px 200px;
 }
 
+.mylink{
+    text-decoration: none;
+    color: #181818;
+}
+
 nav ul {
     display: flex;
     align-items: center;
